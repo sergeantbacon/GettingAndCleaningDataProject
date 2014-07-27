@@ -85,4 +85,4 @@ Description of the particular feature of the reading taken.
 - TimeGravityAccelerometerStdDevZAxis .Gravity Accelerometer Z Axis Standard Deviation Time Domain
 
 ##mean##
-The all for the subject, activity, and observation feature.
+The average of all observations for the subject, activity, and observation feature.
