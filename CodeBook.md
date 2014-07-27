@@ -1,6 +1,5 @@
 Data Dictionary - HAR Means Dataset
 ===================================
-Josh Werner
 Getting and Cleaning Data - Johns Hopkins University
 
 ##subject##
